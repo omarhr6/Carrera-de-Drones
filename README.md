@@ -13,4 +13,4 @@ Herramientas utilizadas:
 omarhr6
 --------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;[github.com/omarhr6](https://omarhr6.github.io/Carrera-de-Drones/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Prueba aquí](https://omarhr6.github.io/Carrera-de-Drones/)
